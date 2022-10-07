@@ -1,14 +1,18 @@
-<h1>👋 Olá, eu sou Eduardo</h1>
+<h1 align="center">👋 Olá, eu sou Eduardo</h1>
+<div align="center"> 
+  
+ 🌱 atualmente estou aprendendo PHP, Laravel, JS.<br>
+ 💻 atualmente Trabalho como desenvolvedor e gerenciador de sistemas.
 
-- 🌱 atualmente estou aprendendo PHP, Laravel, JS.
-- 💻 atualmente Trabalho como desenvolvedor e gerenciador de sistemas. 
+</div>
+
 ##
-<div>
+<div align="center">
   <a href="https://github.com/Eduardo-K197">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-K197&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-K197&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,7 +24,7 @@
   
   ##
   
-  <div> 
+  <div align="center"> 
   <a href="https://www.instagram.com/eduardo_tagshshz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://twitter.com/CarlosE22508028" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@Eduardo.#6799" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
