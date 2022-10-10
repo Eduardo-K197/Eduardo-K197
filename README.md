@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá, eu sou Eduardo</h1>
 <div align="center"> 
   
- 🌱 atualmente estou aprendendo PHP, Laravel, JS.<br>
- 💻 atualmente Trabalho como desenvolvedor e gerenciador de sistemas.
+ 🌱 Atualmente estou aprendendo PHP, Laravel, JS.<br>
+ 💻 Trabalho como desenvolvedor e gerenciador de sistemas.
 
 </div>
 
