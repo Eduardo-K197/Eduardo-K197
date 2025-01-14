@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Carlos Eduardo</h1>
-<div align="center"> 
-  🌱 **Engenheiro de Software** com ampla experiência no desenvolvimento de sistemas robustos e integrações com APIs. <br>
-  💻 **Especialista em Integrações** com serviços como **Celcoin**, **BMP**, **BaaS** e outras soluções financeiras. <br>
+<div align="left"> 
+  🌱 **Engenheiro de Software** com ampla experiência no desenvolvimento de sistemas robustos e integrações com APIs.<br>
+  💻 **Especialista em Integrações** com serviços como **Celcoin**, **BMP**, **BaaS** e outras soluções financeiras.<br>
   🚀 Apaixonado por criar soluções eficientes e escaláveis, sempre utilizando as melhores práticas de engenharia de software.  
 </div>
 
