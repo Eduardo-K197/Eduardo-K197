@@ -123,25 +123,13 @@ Especialista em construir sistemas robustos com:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Eduardo-K197&show_icons=true&theme=dracula"
-    alt="Eduardo GitHub Stats"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Eduardo-K197&layout=compact&theme=dracula&langs_count=6"
-    alt="Eduardo Top Langs"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-K197&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Eduardo's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-K197&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Eduardo-K197&theme=dracula"
-    alt="Eduardo GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-K197&theme=dracula&hide_border=true" alt="Streak Stats" />
 </p>
-
 ---
 
 ### 🌐 Contato
