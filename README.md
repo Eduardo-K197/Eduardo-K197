@@ -100,7 +100,6 @@ Domínio avançado em integrações de alta responsabilidade:
 | 🟢 **Chatflow** | Plataforma Omnichannel para atendimento no WhatsApp com tickets, bots e integração com CRMs. <br>_WebSocket · Redis · React · Node.js_ |
 | 🔵 **OmniScore** | Motor de score e risco para veículos e motoristas, consumindo múltiplas fontes externas. <br>_Microservices · SQS · PostgreSQL_ |
 | 🎓 **Pro-Educ** | Sistema escolar + EAD com presenças, notas, professores, dashboards e app mobile. <br>_Next.js · MySQL · TypeORM_ |
-| 🧾 **DocEngine — Leilões** | Motor de geração de documentos jurídicos com alta fidelidade visual e múltiplas cópias. <br>_wkhtmltopdf · AWS S3 · HTML Templates_ |
 | 🏦 **Fintech Gateway (CCB + Boletos)** | Automação de propostas BMP, emissão de CCB, boletos Santander e assinatura digital. <br>_AWS Lambda · Queues · Celcoin_ |
 
 ---
