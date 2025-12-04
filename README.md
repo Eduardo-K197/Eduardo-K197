@@ -1,35 +1,158 @@
-<h1 align="center">👋 Olá, eu sou Carlos Eduardo</h1>
-<div align="left"> 
-  🌱 **Engenheiro de Software** com ampla experiência no desenvolvimento de sistemas robustos e integrações com APIs.<br>
-  💻 **Especialista em Integrações** com serviços como **Celcoin**, **BMP**, **BaaS** e outras soluções financeiras.<br>
-  🚀 Apaixonado por criar soluções eficientes e escaláveis, sempre utilizando as melhores práticas de engenharia de software.  
+<h1 align="center">👋 Olá, eu sou o Carlos Eduardo</h1>
+<h3 align="center">Engenheiro de Software | Especialista em SaaS, Integrações Financeiras e Arquiteturas Distribuídas</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33CCFF&center=true&vCenter=true&width=700&lines=Backend+Architecture+%26+Microservices;Fintech+Automations+%2F+Banking-as-a-Service;Leil%C3%B5es%2C+Documentos+Jur%C3%ADdicos+e+Assinatura+Digital;Geolocation+%26+Real-Time+Systems;Node.js+%7C+TypeScript+%7C+AWS+Cloud" />
+</p>
+
+<p align="center">
+  Desenvolvo plataformas robustas orientadas a <b>automação financeira</b>, <b>operações logísticas</b> e <b>arquiteturas cloud escaláveis</b>.
+</p>
+
+<p align="center">
+  <a href="#-tech-stack"><strong>Tech Stack</strong></a> ·
+  <a href="#-projetos-em-destaque"><strong>Projetos</strong></a> ·
+  <a href="#-integrações-especializadas"><strong>Integrações</strong></a> ·
+  <a href="#-contato"><strong>Contato</strong></a>
+</p>
+
+---
+
+### 👨‍💻 Sobre mim
+
+Sou Engenheiro de Software com forte foco em **backend, arquitetura distribuída e integrações complexas**. Transformo processos burocráticos e sistemas legados em soluções modernas, automatizadas e escaláveis.
+
+Atuo principalmente em:
+
+- 🧩 **Integrações críticas**: Bancárias, financeiras, judiciais e logísticas
+- 🧠 **Arquitetura de Sistemas**: Microsserviços, filas, workers, orquestração e observabilidade
+- 🛰 **Geolocalização e Real-time** para operações de pátio, guincho e logística
+- 🔐 **Segurança e Infraestrutura**: VPN, rotas segregadas, redes remotas confiáveis
+- ☁️ **Cloud AWS** com foco em custo baixo e performance alta
+- 🧾 **Documentos Jurídicos Automáticos**: PDFs perfeitos para leilões, notas, termos e relatórios
+
+Minha filosofia: **“Automatizar processos, reduzir fricção e criar sistemas que nunca travam.”**
+
+---
+
+### 🛠 Tech Stack
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="130">
+        <img src="https://skillicons.dev/icons?i=nodejs,ts,js" /><br><b>Backend</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css" /><br><b>Frontend</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" /><br><b>Database</b>
+      </td>
+       <td align="center" width="130">
+        <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx" /><br><b>DevOps</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://skillicons.dev/icons?i=php,python,git,postman" /><br><b>Tools</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
+### 🔥 Integrações Especializadas
+
+Domínio avançado em integrações de alta responsabilidade:
+
+#### 🏦 **Bancárias & Financeiras**
+- **Celcoin** – Boletos, PIX, contas digitais, extratos
+- **BMP Digital** – Propostas de crédito, emissão de CCB, assinatura eletrônica
+- **Santander – Boletos Registrados** via API
+- **BaaS / Banking as a Service**
+- **Consultas externas**: Serasa, ANTT, Detran, TJSP e fornecedores múltiplos
+
+#### 📨 **Mensageria & Bots**
+- WhatsApp (API oficial & provedores)
+- Criação de **bots de voz** e **atendimento omnichannel** (Chatflow)
+- Webhooks de eventos críticos
+
+#### 📍 **Geolocalização & Logística**
+- Tracking de viaturas, guinchos e reboques
+- Roteirização inteligente
+- Monitoramento em tempo real
+
+#### 🧾 **Automação de Documentos Jurídicos**
+- Nota de Arrematação
+- Termo de Ciência
+- Carta de Arrematação
+- Relatórios de Lances
+- Prestação de Contas
+- Templates dinâmicos com HTML + CSS + PDF de altíssima fidelidade
+
+---
+
+### 🔭 Projetos em Destaque
+
+| Projeto | Descrição |
+| ------ | --------- |
+| 📍 **GRV & Gestão de Pátios** | App completo para remoção, registro e rastreamento de veículos apreendidos. <br>_Node.js · React Native · Geolocation_ |
+| 🟢 **Chatflow** | Plataforma Omnichannel para atendimento no WhatsApp com tickets, bots e integração com CRMs. <br>_WebSocket · Redis · React · Node.js_ |
+| 🔵 **OmniScore** | Motor de score e risco para veículos e motoristas, consumindo múltiplas fontes externas. <br>_Microservices · SQS · PostgreSQL_ |
+| 🎓 **Pro-Educ** | Sistema escolar + EAD com presenças, notas, professores, dashboards e app mobile. <br>_Next.js · MySQL · TypeORM_ |
+| 🧾 **DocEngine — Leilões** | Motor de geração de documentos jurídicos com alta fidelidade visual e múltiplas cópias. <br>_wkhtmltopdf · AWS S3 · HTML Templates_ |
+| 🏦 **Fintech Gateway (CCB + Boletos)** | Automação de propostas BMP, emissão de CCB, boletos Santander e assinatura digital. <br>_AWS Lambda · Queues · Celcoin_ |
+
+---
+
+### ⚙️ Arquitetura & Cloud
+
+Especialista em construir sistemas robustos com:
+
+- **AWS Lambda** (event-driven, serverless)
+- **AWS SQS** (filas + DLQ para resiliência)
+- **ECS Fargate** (serviços escaláveis)
+- **CloudWatch Logs** estruturados (Pino Logger)
+- **RDS MySQL / PostgreSQL**
+- **S3 para armazenamento e PDFs**
+- Pipelines CI/CD
+- Infraestrutura otimizada para **baixo custo**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-K197&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-K197&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-K197&theme=dracula&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Contato
+
 <div align="center">
-  <a href="https://github.com/Eduardo-K197">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-K197&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-K197&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://www.linkedin.com/in/carlos-eduardo-39a86a228/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:carloseduardobezerradasilva2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/Eduardo.#6799">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+    <a href="https://www.instagram.com/eduardo_tagshshz/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-</div>
-
 ---
 
-<div align="center"> 
-  <a href="https://www.instagram.com/eduardo_tagshshz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/CarlosE22508028" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/users/Eduardo.#6799" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="mailto:carloseduardobezerradasilva2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlos-eduardo-39a86a228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-</div>
+<p align="center">
+  <i>"Automação elimina erros. Arquitetura elimina retrabalho. Engenharia elimina caos."</i><br>
+  🚀 Sempre aberto a desafios em <b>Fintechs</b>, <b>Infra AWS</b> e <b>Produtos SaaS de alta complexidade</b>.
+</p>
