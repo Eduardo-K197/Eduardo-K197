@@ -122,14 +122,17 @@ Especialista em construir sistemas robustos com:
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-K197&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-K197&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="180" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-K197&theme=dracula&hide_border=true" />
-</p>
+[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-K197&theme=dracula&show_icons=true&hide_border=true&count_private=true)](https://github.com/Eduardo-K197)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-K197&layout=compact&theme=dracula&hide_border=true&langs_count=6)](https://github.com/Eduardo-K197)
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-K197&theme=dracula&hide_border=true)](https://github.com/Eduardo-K197)
+
+</div>
 
 ---
 
