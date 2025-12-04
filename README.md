@@ -122,15 +122,52 @@ Especialista em construir sistemas robustos com:
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-K197&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Eduardo's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-K197&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+<div align="center">
+  <!-- Visão geral do perfil -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo-K197&theme=github_dark" 
+    alt="Eduardo GitHub Profile Summary"
+  />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-K197&theme=dracula&hide_border=true" alt="Streak Stats" />
-</p>
----
+<br />
+
+<div align="center">
+  <!-- Línguas e repos -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eduardo-K197&theme=github_dark" 
+    alt="Eduardo Top Languages" 
+    height="180"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardo-K197&theme=github_dark" 
+    alt="Eduardo Repos per Language" 
+    height="180"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardo-K197&theme=github_dark" 
+    alt="Eduardo GitHub Stats Card" 
+    height="180"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Badges extras -->
+  <img 
+    src="https://komarev.com/ghpvc/?username=Eduardo-K197&style=for-the-badge&color=0E8A16" 
+    alt="Profile views"
+  />
+  <img 
+    src="https://img.shields.io/github/followers/Eduardo-K197?style=for-the-badge&logo=github&color=0E8A16" 
+    alt="Followers"
+  />
+  <img 
+    src="https://img.shields.io/github/stars/Eduardo-K197?style=for-the-badge&logo=github&color=FFD700" 
+    alt="Stars"
+  />
+</div>
 
 ### 🌐 Contato
 
